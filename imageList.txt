@@ -1,4 +1,3 @@
-jaffe\123.tif
 jaffe\KA.AN1.39.tiff
 jaffe\KA.AN2.40.tiff
 jaffe\KA.AN3.41.tiff
@@ -148,7 +147,6 @@ jaffe\NM.SA3.100.tiff
 jaffe\NM.SU1.101.tiff
 jaffe\NM.SU2.102.tiff
 jaffe\NM.SU3.103.tiff
-jaffe\README
 jaffe\TM.AN1.190.tiff
 jaffe\TM.AN2.191.tiff
 jaffe\TM.AN3.192.tiff
